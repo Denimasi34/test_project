@@ -1,0 +1,5 @@
+secrets.txt
+file4.txt
+
+#This is comment. Files above are to be ignored.
+#Use "*.txt" to choose files with certain ext.
